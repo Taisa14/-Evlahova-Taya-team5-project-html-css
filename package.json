@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VolovodenkoTaras.github.io/team5-project-html-css",
+  "homepage": "https://Taisa14.github.io/-Evlahova-Taya-team5-project-html-css",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team5-project-html-css/"
+    "build": "parcel build src/*.html --public-url /-Evlahova-Taya-team5-project-html-css/"
   },
   "repository": {
     "type": "git",
